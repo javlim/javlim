@@ -1,6 +1,17 @@
 ## 👋 Hi, I'm Andrew
- A self taught **Software Engineer** currently working as a **Software Quality Assurance Analyst**, and building automated test cases using UiPath and UiPath Test Manager.
+ A self taught **Software Engineer** currently working as a **Software Quality Assurance Analyst**, and building automated test cases using **UiPath** and **UiPath Test Manager**.
+---
 
+## 💻 What I Know:
+- 🤖 **Test Automation Tools:**
+	- Selenium
+	- UFT
+	- UiPath
+- 📚 **Learning Journey:**
+	- Cypress
+	- Playwright
+	- Robot Framework
+	- Machine Learning
 <!--
 **javlim/javlim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
