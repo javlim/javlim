@@ -1,7 +1,3 @@
-<div class = "typewriter">
-	<p id = "Hello =)"></p>
-</div>
-
 ## 👋 Hi, I'm Andrew
 
 A self taught **Software Engineer** currently working as a **Software Quality Assurance Analyst**, and building automated test cases using **UiPath** and **UiPath Test Manager**.
