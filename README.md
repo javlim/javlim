@@ -1,5 +1,5 @@
 <div class = "typewriter">
-	< p id = "Hello =)"></p>
+	<p id = "Hello =)"></p>
 </div>
 
 ## 👋 Hi, I'm Andrew
