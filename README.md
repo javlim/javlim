@@ -5,6 +5,8 @@
 
 ![Static Badge](https://img.shields.io/badge/johnandrewvlim%40gmail.com-blue?style=social&logo=gmail&labelColor=%23bcbcbc)
 
+![Static Badge](https://img.shields.io/badge/in-linkedin.com%2Fin%2Fjavlim-grey?labelColor=%230072b1)
+
 </div>
 
 <br><br>
