@@ -1,7 +1,10 @@
 
-<p align='center'>
+<div align='center'>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=800&size=25&pause=500&color=FFFFFF&background=0E2B62&center=true&vCenter=true&lines=Hi+there%E2%80%A6+%F0%9F%91%8B;I%E2%80%99m+Andrew)](https://git.io/typing-svg)
-</p>
+
+</div>
+
 <br><br>
 A self taught **Software Engineer** currently working as a **Software Quality Assurance Analyst**, and building automated test cases using **UiPath** and **UiPath Test Manager**.
 ---
