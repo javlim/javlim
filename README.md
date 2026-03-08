@@ -8,7 +8,8 @@
 </div>
 
 <br><br>
-<h4>A self taught **Software Engineer** currently working as a **Software Quality Assurance Analyst**, and building automated test cases using **UiPath** and **UiPath Test Manager**.</h4>
+A QA Automation and RPA Developer with 4+ years of experience in UiPath, Python, SAP tes)ng, and automation framework design (POM, KDT).
+Strong focus on process optimization, reporting automation, and data-driven decision-making. Proven track record of reducing manual eﬀort and acceleraing UAT and delivery timelines.
 
 ---
 
