@@ -7,7 +7,6 @@
 
 </div>
 
-<br><br>
 A QA Automation and RPA Developer with 4+ years of experience in UiPath, Python, SAP tes)ng, and automation framework design (POM, KDT).
 Strong focus on process optimization, reporting automation, and data-driven decision-making. Proven track record of reducing manual eﬀort and acceleraing UAT and delivery timelines.
 
